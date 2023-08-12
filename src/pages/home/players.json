@@ -1,0 +1,499 @@
+[
+    {
+        "name": "Casey Magyar",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                    "name": "Sahith Theegala"
+                },
+                {
+                    "name": "Matt Fitzpatrick"
+                },
+                {
+                    "name": "Jordan Spieth"
+                },
+                {
+                    "name": "Hideki Matsuyama"
+                },
+                {
+                    "name": "Cam Young"
+                },
+                {
+                    "name": "Seamus Power"
+                },
+                {
+                    "name": "Denny McCarthy"
+                },
+                {
+                    "name": "Justin Rose"
+                }
+            ]
+        }]
+    }, {
+        "name": "Tyler Magyar",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                    "name": "Rickie Fowler"
+                },
+                {
+                    "name": "Tyrell Hatton"
+                },
+                {
+                    "name": "Jordan Spieth"
+                },
+                {
+                    "name": "Matt Fitzpatrick"
+                },
+                {
+                    "name": "JJ Spaun"
+                },
+                {
+                    "name": "Hideki Matsuyama"
+                },
+                {
+                    "name": "Sam Burns"
+                },
+                {
+                    "name": "Alex Smalley"
+                }
+            ]
+        }]
+    }, {
+        "name": "Mitchell Magyar",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                    "name": "Max Homa"
+                },
+                {
+                    "name": "Victor Hovland"
+                },
+                {
+                    "name": "Cam Young"
+                },
+                {
+                    "name": "Sahith Theegala"
+                },
+                {
+                    "name": "Tommy Fleetwood"
+                },
+                {
+                    "name": "Emiliano Grillo"
+                },
+                {
+                    "name": "Hideki Matsuyama"
+                },
+                {
+                    "name": "Sam Burns"
+                }
+            ]
+        }]
+    }, {
+        "name": "Danny Rajchel",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                    "name": "Collin Morikawa"
+                },
+                {
+                    "name": "Justin Rose"
+                },
+                {
+                    "name": "Tony Finau"
+                },
+                {
+                    "name": "Sepp Straka"
+                },
+                {
+                    "name": "Si Woo Kim"
+                },
+                {
+                    "name": "Russell Henley"
+                },
+                {
+                    "name": "Nick Taylor"
+                },
+                {
+                    "name": "Jordan Spieth"
+                }
+            ]
+        }]
+    }, {
+        "name": "Seth",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                    "name": "Tommy Fleetwood"
+                },
+                {
+                    "name": "Matt Fitzpatrick"
+                },
+                {
+                    "name": "Sam Burns"
+                },
+                {
+                    "name": "Tyrell Hatton"
+                },
+                {
+                    "name": "Collin Morikawa"
+                },
+                {
+                    "name": "JT Poston"
+                },
+                {
+                    "name": "Byeong Hun An"
+                },
+                {
+                    "name": "Cam Davis"
+                }
+            ]
+        }]
+    }, {
+        "name": "Blake",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                    "name": "Tommy Fleetwood"
+                },
+                {
+                    "name": "Jordan Spieth"
+                },
+                {
+                    "name": "Sungjae Im"
+                },
+                {
+                    "name": "Justin Rose"
+                },
+                {
+                    "name": "Tyrell Hatton"
+                },
+                {
+                    "name": "Sepp Straka"
+                },
+                {
+                    "name": "Tom Kim"
+                },
+                {
+                    "name": "Xander Schauffele"
+                }
+            ]
+        }]
+    }, {
+        "name": "Jordan",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                    "name": "Tony Finau"
+                },
+                {
+                    "name": "Rickie Fowler"
+                },
+                {
+                    "name": "Justin Rose"
+                },
+                {
+                    "name": "Wyndham Clark"
+                },
+                {
+                    "name": "Jordan Spieth"
+                },
+                {
+                    "name": "Cam Young"
+                },
+                {
+                    "name": "Xander Schauffele"
+                },
+                {
+                    "name": "Tommy Fleetwood"
+                }
+            ]
+        }]
+    }, {
+        "name": "Brady Lloyd",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                    "name": "Wyndham Clark"
+                },
+                {
+                    "name": "Tyrell Hatton"
+                },
+                {
+                    "name": "Max Homa"
+                },
+                {
+                    "name": "Cam Young"
+                },
+                {
+                    "name": "Jason Day"
+                },
+                {
+                    "name": "Tom Kim"
+                },
+                {
+                    "name": "Russell Henley"
+                },
+                {
+                    "name": "Hideki Matsuyama"
+                }
+            ]
+        }]
+    }, {
+        "name": "Kyle",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                    "name": "Adam Svensson"
+                },
+                {
+                    "name": "Sahith Theegala"
+                },
+                {
+                    "name": "Hideki Matsuyama"
+                },
+                {
+                    "name": "Harris English"
+                },
+                {
+                    "name": "Sam Burns"
+                },
+                {
+                    "name": "Lee Hodges"
+                },
+                {
+                    "name": "Tony Finau"
+                },
+                {
+                    "name": "Russell Henley"
+                }
+            ]
+        }]
+    }, {
+        "name": "Nick Manning",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                    "name": "Brian Harman"
+                },
+                {
+                    "name": "Sepp Straka"
+                },
+                {
+                    "name": "Tony Finau"
+                },
+                {
+                    "name": "Lucas Glover"
+                },
+                {
+                    "name": "Beau Hossler"
+                },
+                {
+                    "name": "Sahith Theegala"
+                },
+                {
+                    "name": "Andrew Putnam"
+                },
+                {
+                    "name": "Cam Davis"
+                }
+            ]
+        }]
+    }, {
+        "name": "Tyler R",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                  "name": "Rickie Fowler"
+                },
+                {
+                  "name": "Tony Finau"
+                },
+                {
+                  "name": "Max Homa"
+                },
+                {
+                  "name": "Si Woo Kim"
+                },
+                {
+                  "name": "Victor Hovland"
+                },
+                {
+                  "name": "Cam Young"
+                },
+                {
+                  "name": "Sepp Straka"
+                },
+                {
+                  "name": "Sahith Theegala"
+                }
+            ]
+        }]
+    }, {
+        "name": "Riley Shelton",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                  "name": "Patrick Cantlay"
+                },
+                {
+                  "name": "Xander Schauffele"
+                },
+                {
+                  "name": "Tommy Fleetwood"
+                },
+                {
+                  "name": "Max Homa"
+                },
+                {
+                  "name": "Sam Burns"
+                },
+                {
+                  "name": "Cam Young"
+                },
+                {
+                  "name": "Hideki Matsuyama"
+                },
+                {
+                  "name": "Emiliano Grillo"
+                }
+            ]
+        }]
+    }, {
+        "name": "Jonny Breen",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                  "name": "Hideki Matsuyama"
+                },
+                {
+                  "name": "Tony Finau"
+                },
+                {
+                  "name": "Max Homa"
+                },
+                {
+                  "name": "Jason Day"
+                },
+                {
+                  "name": "Sam Burns"
+                },
+                {
+                  "name": "Cam Young"
+                },
+                {
+                  "name": "Brian Harman"
+                },
+                {
+                  "name": "Justin Rose"
+                }
+            ]
+        }]
+    }, {
+        "name": "Ethan",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                  "name": "Kurt Kitiyama"
+                },
+                {
+                  "name": "Tommy Fleetwood"
+                },
+                {
+                  "name": "Tyrell Hatton"
+                },
+                {
+                  "name": "Russell Henley"
+                },
+                {
+                  "name": "Si Woo Kim"
+                },
+                {
+                  "name": "Sam Burns"
+                },
+                {
+                  "name": "Brian Harman"
+                },
+                {
+                  "name": "Harris English"
+                }
+            ]
+        }]
+    }, {
+        "name": "Brenden",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                  "name": "Matt Kuchar"
+                },
+                {
+                  "name": "Sahith Theegala"
+                },
+                {
+                  "name": "Denny McCarthy"
+                },
+                {
+                  "name": "Tony Finau"
+                },
+                {
+                  "name": "Brendan Todd"
+                },
+                {
+                  "name": "Russell Henley"
+                },
+                {
+                  "name": "Emiliano Grillo"
+                },
+                {
+                  "name": "Sam Burns"
+                }
+            ]
+        }]
+    }, {
+        "name": "Joey",
+        "rounds": [{
+            "round": 1,
+            "players": [
+                {
+                  "name": "Xander Schauffele"
+                },
+                {
+                  "name": "Tyrell Hatton"
+                },
+                {
+                  "name": "Jordan Spieth"
+                },
+                {
+                  "name": "Tommy Fleetwood"
+                },
+                {
+                  "name": "Patrick Cantlay"
+                },
+                {
+                  "name": "Cam Young"
+                },
+                {
+                  "name": "Jason Day"
+                },
+                {
+                  "name": "Keegan Bradley"
+                }
+            ]
+        }]
+    }
+]
