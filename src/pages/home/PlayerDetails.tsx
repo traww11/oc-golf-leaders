@@ -3,6 +3,7 @@ import { MRT_ColumnDef, MaterialReactTable } from 'material-react-table';
 import { Box } from '@mui/material';
 import RoundDetails from './RoundDetails';
 import golfers from './golfers.json';
+import { bottomThree, total } from '../../utils/utils';
 
 interface Golfer {
   name: string;
@@ -24,18 +25,18 @@ interface Props {
 
 function PlayerDetails({ player }: Props) {
 
-  const score = (player: any, round: number): number => {
-    const list: Array<any> = golfers;
-    var test = list.find(({ name }: Golfer) => name === player.name)
-    if (test) {
-      return test.scores[round];
-    }
-    return 0;
-  }
+  // const score = (player: any, round: number): number => {
+  //   const list: Array<any> = golfers;
+  //   var test = list.find(({ name }: Golfer) => name === player.name)
+  //   if (test) {
+  //     return test.scores[round];
+  //   }
+  //   return 0;
+  // }
 
-  const total = (round: Round): number => {
-    return round.players.reduce((accumulator: any, object: any) => accumulator + score(object, round.round - 1), 0);
-  };
+  // const total = (round: Round): number => {
+  //   return round.players.reduce((accumulator: any, object: any) => accumulator + score(object, round.round - 1), 0);
+  // };
 
   const columns = useMemo<MRT_ColumnDef<any>[]>(
     () => [

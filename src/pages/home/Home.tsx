@@ -4,6 +4,7 @@ import players from './players.json';
 import { MRT_ColumnDef, MaterialReactTable } from 'material-react-table';
 import { Box } from '@mui/material';
 import PlayerDetails from './PlayerDetails';
+import { total } from '../../utils/utils';
 
 interface Golfer {
   name: string;
@@ -19,22 +20,26 @@ interface Round {
 }
 
 function Home() {
-  const score = (player: any, round: number): number => {
-    const list: Array<any> = golfers;
-    var test = list.find(({ name }: Golfer) => name === player.name)
-    if (test) {
-      return test.scores[round];
-    }
-    return 0;
-  }
+  // const score = (player: any, round: number): number => {
+  //   const list: Array<any> = golfers;
+  //   var test = list.find(({ name }: Golfer) => name === player.name)
+  //   if (test) {
+  //     return test.scores[round];
+  //   }
+  //   return 0;
+  // }
   
-  const total = (player: Player): number => {
-    var sum = 0;
-    player.rounds.forEach(({ players }, i) => {
-      sum += players.reduce((accumulator: any, object: any) => accumulator + score(object, i), 0);
-    });
-    return sum;
-  };
+  // const total = (player: Player): number => {
+  //   var sum = 0;
+  //   player.rounds.forEach(({ players }, i) => {
+  //     sum += players.reduce((accumulator: any, object: any) => accumulator + score(object, i), 0);
+  //   });
+  //   return sum;
+  // };
+
+  const sum = ({ rounds }: Player) => {
+    return rounds.reduce((accumulator: any, object: any) => accumulator + total(object), 0);
+  }
 
   const columns = useMemo<MRT_ColumnDef<any>[]>(
       () => [
@@ -45,7 +50,7 @@ function Home() {
         {
           id: 'score',
           header: 'Score',            
-          accessorFn: (row) => total(row)
+          accessorFn: (row) => sum(row)
         }
       ],
       [],
@@ -67,6 +72,8 @@ function Home() {
             data={players} 
             enableColumnOrdering //enable some features
             enablePagination={false} //disable a default feature
+            enableRowNumbers
+            rowNumberMode='static'
             initialState={{
               sorting: [
                     {
